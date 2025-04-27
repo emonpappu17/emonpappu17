@@ -47,7 +47,7 @@
   <a href="https://github.com/emonpappu17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="mailto:emonbafsd@gmail.com">
+  <a href="emonbafsd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/emonhowlader17/">

@@ -1,3 +1,9 @@
+<div align="center">
+ 
+ 
+<img width="100%" src="https://media.licdn.com/dms/image/v2/D4E16AQHsiw20gRU_MA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735486657274?e=1751500800&v=beta&t=10-Gj9e1ph5E2EHVLzZwVbwrmZJit7grKnOvZSmxsMY" alt="cover" />
+</div>
+
 <h1 align="center">Hi, I'm a Full Stack Web Developer!</h1>
 
 <p align="center">
@@ -47,7 +53,7 @@
   <a href="https://github.com/emonpappu17">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="emonbafsd@gmail.com">
+  <a href="mailto:emonbafsd@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/emonhowlader17/">

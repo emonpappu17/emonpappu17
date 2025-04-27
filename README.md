@@ -61,7 +61,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟Best Projects
 
 1. **[Community Food Sharing Platform]** - Reduce waste through food sharing
 Key Features:

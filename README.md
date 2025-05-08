@@ -23,7 +23,7 @@
 - � Building scalable and performant web applications
 - 🎯 Problem solver with a focus on clean code
 - 🌱 Continuously learning new technologies
-- 🤝 Open to collaborations and open-source contributions
+- 😎 Currently learning Typescript
 
 ---
 

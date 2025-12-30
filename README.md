@@ -65,7 +65,7 @@ Currently focused on building scalable applications and continuously learning ne
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=emonpappu17)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emonpappu17&theme=shadow-brown)](https://git.io/streak-stats)
 
 </div>
 

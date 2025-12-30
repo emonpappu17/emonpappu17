@@ -57,13 +57,6 @@ Currently focused on building scalable applications and continuously learning ne
 ##  GitHub Stats
 
 <div align="center">
-  
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emonpappu17&theme=shadow-brown)](https://git.io/streak-stats)
 
@@ -73,39 +66,80 @@ Currently focused on building scalable applications and continuously learning ne
 
 ##  Featured Projects
 
-### 📌 [Project Name 1](https://github.com/YOUR_USERNAME/project-1)
-**Description:** Brief description of what this project does and the problem it solves.
+### 📌 [PayWave - Digital Wallet System](https://github.com/emonpappu17/digital-wallet-system-frontend)
+**Live Demo:** [https://digital-wallet-system-frontend-xi.vercel.app](https://digital-wallet-system-frontend-xi.vercel.app)
 
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+A production-ready digital wallet application with role-based access control (User, Agent, Admin). Features secure JWT authentication, transaction management, and comprehensive analytics.
+
+**Tech Stack:** `React 19` `TypeScript` `Redux Toolkit` `RTK Query` `Tailwind CSS` `Shadcn UI` `Node.js` `Express` `MongoDB`
 
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+-  JWT-based authentication with refresh token mechanism
+-  Three role-based dashboards with distinct functionalities
+-  Send money, deposit, and cash-out operations
+-  Interactive charts and real-time transaction tracking
+-  Dark/Light theme with guided onboarding tour
+-  Fully responsive design with accessibility features
+
+**Highlights:**
+- Implemented RTK Query for efficient API caching and state management
+- Built guided onboarding with react-joyride (5+ steps, runs once)
+- Created reusable form components with React Hook Form + Zod validation
+- Integrated Recharts for transaction analytics visualization
 
 ---
 
-### 📌 [Project Name 2](https://github.com/YOUR_USERNAME/project-2)
-**Description:** Brief description of what this project does and the problem it solves.
 
-**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Tailwind CSS`
+### 📌 [TripSync – Travel Buddy & Meetup Platform](https://github.com/emonpappu17/TripSync-client)
 
-**Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+**Live Demo:** [https://trip-sync-client.vercel.app](https://trip-sync-client.vercel.app)
 
----
+TripSync is a full-stack travel companion platform that connects travelers worldwide, helping them discover compatible travel buddies and plan meaningful trips together.
 
-### 📌 [Project Name 3](https://github.com/YOUR_USERNAME/project-3)
-**Description:** Brief description of what this project does and the problem it solves.
-
-**Tech Stack:** `Python` `Django` `REST API` `Docker`
+**Tech Stack:**  
+`Next.js 14` `TypeScript` `Tailwind CSS` `Node.js` `Express.js`  
+`PostgreSQL (Neon)` `Prisma` `JWT` `Stripe` `Cloudinary`
 
 **Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Smart traveler matching based on destination, dates, and interests
+- Travel plan creation with itinerary, budget, and timeline
+- Role-based access control (User & Admin)
+- Premium subscription system with Stripe integration
+- Review & rating system to build trust in the community
+- Secure authentication with JWT & protected API routes
+
+**Highlights:**
+- Implemented scalable REST APIs with Prisma + PostgreSQL
+- Integrated Stripe payments for monthly & yearly subscriptions
+- Used Cloudinary for secure image uploads
+- Built admin dashboard for user & content moderation
+- Deployed client on Vercel and server on Render
+
+### 📌 [Portfolio Website](https://github.com/emonpappu17/portfolio-client)
+
+**Live Demo:**  [portfolio-client-liard.vercel.app](portfolio-client-liard.vercel.app)
+
+A full-stack personal portfolio platform featuring public content and a private admin dashboard. The system supports secure authentication, dynamic blog & project management, and high-performance rendering using modern Next.js strategies.
+
+**Tech Stack:**  
+`Next.js` `TypeScript` `Tailwind CSS`  
+`Node.js` `Express.js` `PostgreSQL` `Prisma`  
+`JWT` `bcrypt`
+
+**Key Features:**
+- Public blog & project showcase with ISR and SSG
+- Secure admin authentication using JWT
+- Private dashboard for managing blogs & projects (CRUD)
+- Rich text content support for blogs
+- Optimized performance using ISR, SSG, and static params
+- Responsive UI with modern design system
+
+**Highlights:**
+- Implemented Incremental Static Regeneration for scalable content updates
+- Built secure auth flow with password hashing (bcrypt)
+- Used Prisma ORM for type-safe database access & migrations
+- Designed role-protected routes for admin-only access
+- Structured backend with clean REST API architecture
 
 ---
 
@@ -115,4 +149,3 @@ Currently focused on building scalable applications and continuously learning ne
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/emonhowlader17)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:emonbafsd@gmail.com)
 
-<!-- [![Portfolio](https://skillicons.dev/icons?i=linkedin)](https://your-portfolio.com) -->

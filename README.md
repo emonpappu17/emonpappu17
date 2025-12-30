@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/YOUR-BANNER-LINK/github-banner.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/hRBqsjvd/Black-and-White-Gradient-Personal-Linked-In-Banner-5.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Emon Howlader</h1>

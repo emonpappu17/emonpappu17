@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/hRBqsjvd/Black-and-White-Gradient-Personal-Linked-In-Banner-5.png" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm Emon Howlader 👋</h1>
+<h1 align="center">Hi, I'm Emon Howlader</h1>
 
 <p align="center">
   Full-Stack Developer | Problem Solver | Lifelong Learner

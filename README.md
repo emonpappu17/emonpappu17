@@ -139,11 +139,5 @@ A full-stack personal portfolio platform featuring public content and a private 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emonhowlader17)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/emonhowlader17)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:emonbafsd@gmail.com)
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emonhowlader17)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/emonhowlader17)
 [![Portfolio](https://skillicons.dev/icons?i=vercel)](https://my-portfolio-eta-opal-78.vercel.app)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:emonbafsd@gmail.com)
